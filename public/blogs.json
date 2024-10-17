@@ -1,7 +1,7 @@
 [
     {
       "id": "1",
-      "cover": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.metizsoft.com%2Fblog%2Ftop-javascript-frameworks-for-2024&psig=AOvVaw2-iyUtGquU38-tczDBWWYb&ust=1729232126113000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjolu7hlIkDFQAAAAAdAAAAABAQ",
+      "cover": "https://i.ibb.co.com/NC2jwgP/top-10-javascript-frameworks.jpg",
       "title": "10 Essential JavaScript Libraries for Developers",
       "author": "Emily Taylor",
       "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
@@ -11,7 +11,7 @@
     },
     {
       "id": "2",
-      "cover": "https://images.unsplash.com/photo-1551334787-21e6bd3ab135",
+      "cover": "https://i.ibb.co.com/NY7DrqT/responsive-web-design-guide.png",
       "title": "A Beginner's Guide to Responsive Web Design",
       "author": "James Wilson",
       "author_img": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
@@ -21,7 +21,7 @@
     },
     {
       "id": "3",
-      "cover": "https://images.unsplash.com/photo-1529220518366-c6a83ad3b144",
+      "cover": "https://i.ibb.co.com/SxDBC47/api-images.jpg",
       "title": "Understanding REST APIs and How They Work",
       "author": "Sophia Lee",
       "author_img": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
@@ -31,7 +31,7 @@
     },
     {
       "id": "4",
-      "cover": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+      "cover": "https://i.ibb.co.com/xF2vTVL/css4-images.png",
       "title": "Exploring the New Features in CSS4",
       "author": "Michael Carter",
       "author_img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
@@ -41,7 +41,7 @@
     },
     {
       "id": "5",
-      "cover": "https://images.unsplash.com/photo-1506765515384-028b60a970df",
+      "cover": "https://i.ibb.co.com/J37Jyfn/What-is-MERN-Development-Everything-You-Need-to-Know.jpg",
       "title": "The Ultimate Guide to Full-Stack Development",
       "author": "Olivia Brown",
       "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
