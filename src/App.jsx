@@ -6,15 +6,24 @@ import Header from './assets/components/Header/Header'
 
 function App() {
   const [bookmarks, setBookmarks] = useState([])
-  const [readTimes,setReadTime]=useState(0)
+  const [readTimes, setReadTime] = useState(0)
   const handleAddToBookmark = (blog) => {
-    setBookmarks([...bookmarks,blog])
-    console.log('hi')
+    const searchItem = bookmarks.find(book=>book.id==blog.id)
+    if(searchItem){
+      alert('this item is available in bookmark already')
+      return;
+    }
+
+    console.log(blog.id)
+    setBookmarks([...bookmarks, blog])
+    // console.log('hi')
   }
 
-  const handleReadTime=(time)=>{
+  const handleReadTime = (id,time) => {
     // console.log(blog)
-    setReadTime(readTimes+time)
+    setReadTime(readTimes + time)
+    const remainingBooks =bookmarks.filter(book=>book.id !==id)
+    setBookmarks(remainingBooks)
   }
   // console.log(typeof bookmarks)
   return (
